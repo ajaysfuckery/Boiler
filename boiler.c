@@ -21,7 +21,7 @@ int main(){
 	
 	if(!strcmp(a, "h")){
 		printf("\n");
-		printf("                             + - - - - - - - - - - - - - - - +\n");
+		printf("                     + - - - - - - - - - - - - - - - +\n");
         printf("                             | HTML FILE HAS BEEN GENERATED! |\n");
         printf("                             + - - - - - - - - - - - - - - - +\n");
         printf("\n");
