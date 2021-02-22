@@ -5,8 +5,13 @@ This tool can be used on any OS with Python3
 
 Requirements~
 Python3
+C (MinGW)
+Bloodshed Dev-cpp
+
 
 Instructions~
+<b><i>Python3</i></b>
+
 To use this tool make sure you have Python3 installed.
 
 ~ For Ubuntu/Debian based OSes use:
@@ -30,4 +35,14 @@ For running this script~
 open up CMD/Terminal and change directory to where you have downloaded this tool.
 Run this commmand: python boiler.py
 
-~ NOTICE ME ;^; There will be a C version also soon because why not right? XD
+<b><i>C</i></b>
+
+To use the C version on windows you need to have MinGW installed. Look for a video on youtube showing the install process of it.
+
+To compile the C source file you can use Bloodshed dev-cpp.
+Just open the file in bloodshed and hit F11 to compile and run it XD
+
+And now the codes come out
+
+
+<b>Enjoy~</b>
