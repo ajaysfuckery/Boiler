@@ -9,7 +9,7 @@ C (MinGW)
 Bloodshed Dev-cpp
 
 
-Instructions~
+Instructions~<br/>
 <b><i>Python3</i></b>
 
 To use this tool make sure you have Python3 installed.
